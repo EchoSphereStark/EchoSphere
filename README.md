@@ -22,4 +22,5 @@ EchoSphere is a platform designed to amplify the voices and stories of creators 
 
 <p>At EchoSphere, we aim to bridge the gap between blockchain creators and audiences, enabling meaningful interactions and fostering a thriving ecosystem of shared knowledge and innovation.</p>
 
+<img title="logo" alt="logo" src="/images/echosp.png">
 [EchoSphere](/images/echosp.png)
