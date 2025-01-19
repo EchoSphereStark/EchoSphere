@@ -12,7 +12,7 @@ EchoSphere is a platform designed to amplify the voices and stories of creators 
 
 ### For Listeners
 
-- <strong>Curated Playlists:</strong> Access tailored playlists to explore interviews, tutorials, and recaps from blockchain experts.
+- <strong>Curated Playlists:</strong> Access tailored playlists to explore interviews, tutorials, and recaps from blockchain experts and other creators.
 
 - <strong>Search and Discover:</strong> Use powerful search tools to find content by topic, creator, or category.
 
