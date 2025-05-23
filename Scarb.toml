@@ -7,13 +7,16 @@ edition = "2024_07"
 
 [dependencies]
 starknet = "2.8.4"
+openzeppelin = { git = "https://github.com/openzeppelin/cairo-contracts", tag = "v0.18.0" }
+alexandria_storage = { git = "https://github.com/keep-starknet-strange/alexandria.git", tag = "cairo-v2.3.0-rc0" }
+
 
 [dev-dependencies]
 snforge_std = "0.36.0"
-assert_macros = "2.8.4"
+# assert_macros = "2.8.4"
 
 [[target.starknet-contract]]
-sierra = true
+casm = true
 
 [scripts]
 test = "snforge test"
